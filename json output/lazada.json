@@ -1,0 +1,1461 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "page": 1,
+        "page_size": 40,
+        "start_key": "1739251990022231",
+        "total_count": 6154,
+        "keyword": "airpods",
+        "cat_url": "",
+        "sort": "pop",
+        "price_start": "",
+        "price_end": "",
+        "items": [
+            {
+                "item_id": "4652416820",
+                "product_url": "https://www.lazada.com.ph/products/-i4652416820.html",
+                "title": "Apple AirPods 4th Gen Late 2024",
+                "img": "https://ph-live-01.slatic.net/p/075220c589ff320f1f8c3070664c0809.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "7390",
+                "price_info": {
+                    "sale_price": "7390",
+                    "origin_price": "8490"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.990909090909091",
+                    "review_count": "220"
+                },
+                "comment_count": "220",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "613",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4688912299",
+                "product_url": "https://www.lazada.com.ph/products/-i4688912299.html",
+                "title": "Apple AirPods 4",
+                "img": "https://ph-live-01.slatic.net/p/01cc04beaa007b8f7cfa9feb264fe099.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "8490",
+                "price_info": {
+                    "sale_price": "8490",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.9753086419753085",
+                    "review_count": "486"
+                },
+                "comment_count": "486",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Apple Flagship Store",
+                    "shop_url": "https://www.lazada.com.ph/shop/apple-flagship-store/",
+                    "seller_id": "1000001033",
+                    "seller_name": "Apple Flagship Store"
+                },
+                "sold_count": "1.2K",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4652485640",
+                "product_url": "https://www.lazada.com.ph/products/-i4652485640.html",
+                "title": "Apple AirPods 4 with Active Noise Cancellation",
+                "img": "https://ph-live-01.slatic.net/p/1b5b22677d3b9b742c4c1bf5ab41d985.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "10365",
+                "price_info": {
+                    "sale_price": "10365",
+                    "origin_price": "11490"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.992592592592593",
+                    "review_count": "135"
+                },
+                "comment_count": "135",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "355",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4572439069",
+                "product_url": "https://www.lazada.com.ph/products/-i4572439069.html",
+                "title": "Apple AirPods Pro (2nd Generation) with MagSafe Case (USB\u2011C)",
+                "img": "https://ph-live-01.slatic.net/p/207c8f356c7dc4c5b1669d343b696f9c.jpg",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "14990",
+                "price_info": {
+                    "sale_price": "14990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.949324324324325",
+                    "review_count": "592"
+                },
+                "comment_count": "592",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Apple Flagship Store",
+                    "shop_url": "https://www.lazada.com.ph/shop/apple-flagship-store/",
+                    "seller_id": "1000001033",
+                    "seller_name": "Apple Flagship Store"
+                },
+                "sold_count": "1.5K",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4120985661",
+                "product_url": "https://www.lazada.com.ph/products/-i4120985661.html",
+                "title": "Apple AirPods Pro (2nd generation) with MagSafe Charging Case (USB\u2011C)",
+                "img": "https://ph-live-01.slatic.net/p/6fb047481890082964156702768386c3.jpg",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "11885",
+                "price_info": {
+                    "sale_price": "11885",
+                    "origin_price": "15990"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.967707212055974",
+                    "review_count": "929"
+                },
+                "comment_count": "929",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "2.2K",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4704062834",
+                "product_url": "https://www.lazada.com.ph/products/-i4704062834.html",
+                "title": "Apple AirPods 4 with Active Noise Cancellation",
+                "img": "https://ph-live-01.slatic.net/p/cb1cfbc4fc541cf00b4886f93b1a7c08.jpg",
+                "category_path": [
+                    10100387,
+                    5250,
+                    7173
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "10490",
+                "price_info": {
+                    "sale_price": "10490",
+                    "origin_price": "12990"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "9"
+                },
+                "comment_count": "9",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "The Loop by Power Mac Center",
+                    "shop_url": "https://www.lazada.com.ph/shop/the-loop-by-power-mac-center/",
+                    "seller_id": "500163747066",
+                    "seller_name": "The Loop by Power Mac Center"
+                },
+                "sold_count": "31",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4718989473",
+                "product_url": "https://www.lazada.com.ph/products/-i4718989473.html",
+                "title": "Apple AirPods 4",
+                "img": "https://ph-live-01.slatic.net/p/a11d949b3376b5556fc4ce799730fad4.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "7490",
+                "price_info": {
+                    "sale_price": "7490",
+                    "origin_price": "8990"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.714285714285714",
+                    "review_count": "21"
+                },
+                "comment_count": "21",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "WhiteHaus",
+                    "shop_url": "https://www.lazada.com.ph/shop/whitehaus/",
+                    "seller_id": "500166480069",
+                    "seller_name": "WhiteHaus"
+                },
+                "sold_count": "67",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Taguig"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4135173969",
+                "product_url": "https://www.lazada.com.ph/products/-i4135173969.html",
+                "title": "Apple AirPods Pro (2nd generation) with MagSafe Case (USB\u2011C)",
+                "img": "https://ph-live-01.slatic.net/p/1126e6997bb4d2b814ebbb13cffb40d8.jpg",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "12990",
+                "price_info": {
+                    "sale_price": "12990",
+                    "origin_price": "15990"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.954430379746835",
+                    "review_count": "395"
+                },
+                "comment_count": "395",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "The Loop by Power Mac Center",
+                    "shop_url": "https://www.lazada.com.ph/shop/the-loop-by-power-mac-center/",
+                    "seller_id": "500163747066",
+                    "seller_name": "The Loop by Power Mac Center"
+                },
+                "sold_count": "876",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3372387019",
+                "product_url": "https://www.lazada.com.ph/products/-i3372387019.html",
+                "title": "Apple Airpods 3rd Generation with Lightning Charging Case",
+                "img": "https://ph-live-01.slatic.net/p/06946c41bdcfbb1243ce890909032a33.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "7990",
+                "price_info": {
+                    "sale_price": "7990",
+                    "origin_price": "10990"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.9591439688715955",
+                    "review_count": "514"
+                },
+                "comment_count": "514",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "WhiteHaus",
+                    "shop_url": "https://www.lazada.com.ph/shop/whitehaus/",
+                    "seller_id": "500166480069",
+                    "seller_name": "WhiteHaus"
+                },
+                "sold_count": "1.4K",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Taguig"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3418780026",
+                "product_url": "https://www.lazada.com.ph/products/-i3418780026.html",
+                "title": "Apple Airpods Pro 2nd Generation",
+                "img": "https://ph-live-01.slatic.net/p/21481e8352bf957ffc40ee3964d34043.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "12490",
+                "price_info": {
+                    "sale_price": "12490",
+                    "origin_price": "19999"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.883408071748879",
+                    "review_count": "892"
+                },
+                "comment_count": "892",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "WhiteHaus",
+                    "shop_url": "https://www.lazada.com.ph/shop/whitehaus/",
+                    "seller_id": "500166480069",
+                    "seller_name": "WhiteHaus"
+                },
+                "sold_count": "2.3K",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Taguig"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "2717892391",
+                "product_url": "https://www.lazada.com.ph/products/-i2717892391.html",
+                "title": "Airpods 3rd Gen. with Magsafe Charging Case",
+                "img": "https://ph-live-01.slatic.net/p/2dcb313928bc9a839c7f9ff4fef227ce.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "8990",
+                "price_info": {
+                    "sale_price": "8990",
+                    "origin_price": "14990"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.825688073394495",
+                    "review_count": "109"
+                },
+                "comment_count": "109",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "WhiteHaus",
+                    "shop_url": "https://www.lazada.com.ph/shop/whitehaus/",
+                    "seller_id": "500166480069",
+                    "seller_name": "WhiteHaus"
+                },
+                "sold_count": "309",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Taguig"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4456437357",
+                "product_url": "https://www.lazada.com.ph/products/-i4456437357.html",
+                "title": "AirPods Pro (2nd generation) with MagSafe Charging Case (USB\u2011C)",
+                "img": "https://ph-live-01.slatic.net/p/91096433500ef209876fb22f1eb82841.png",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "15990",
+                "price_info": {
+                    "sale_price": "15990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "5"
+                },
+                "comment_count": "5",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Switch Philippines",
+                    "shop_url": "https://www.lazada.com.ph/shop/switch-philippines/",
+                    "seller_id": "1000274593",
+                    "seller_name": "Switch Philippines"
+                },
+                "sold_count": "11",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Makati"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3903528944",
+                "product_url": "https://www.lazada.com.ph/products/-i3903528944.html",
+                "title": "Apple AirPods (3rd generation) with Lightning Charging Case",
+                "img": "https://ph-live-01.slatic.net/p/328ce9ba49eb3141992bc0ddffe0fee9.jpg",
+                "category_path": [
+                    10100387,
+                    5250,
+                    21392
+                ],
+                "brand": "Apple",
+                "brand_id": "127197227",
+                "currency": "PHP",
+                "price": "10990",
+                "price_info": {
+                    "sale_price": "10990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "3.6666666666666665",
+                    "review_count": "6"
+                },
+                "comment_count": "6",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "iStore PH",
+                    "shop_url": "https://www.lazada.com.ph/shop/istore-ph/",
+                    "seller_id": "500160585022",
+                    "seller_name": "iStore PH"
+                },
+                "sold_count": "17",
+                "delivery_info": {
+                    "area_from": "Cebu"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3461268762",
+                "product_url": "https://www.lazada.com.ph/products/-i3461268762.html",
+                "title": "Keybudz Pro Elevate Keychain Case for AirPods Pro 2nd Gen Late 2022",
+                "img": "https://ph-live-01.slatic.net/p/bdf6f0cc0e79dce6a3fefdc2d46103d2.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "KeyBudz",
+                "brand_id": "124614021",
+                "currency": "PHP",
+                "price": "801",
+                "price_info": {
+                    "sale_price": "801",
+                    "origin_price": "890"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.7207207207207205",
+                    "review_count": "222"
+                },
+                "comment_count": "222",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "632",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4638273658",
+                "product_url": "https://www.lazada.com.ph/products/-i4638273658.html",
+                "title": "Native Union (Re)Classic Case for AirPods Pro 2nd Gen Late 2023",
+                "img": "https://sg-test-11.slatic.net/p/bb56aa4f7c3110bb89563fec6edd0444.png",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24927
+                ],
+                "brand": "Omthing",
+                "brand_id": "123542669",
+                "currency": "PHP",
+                "price": "1990",
+                "price_info": {
+                    "sale_price": "1990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "1"
+                },
+                "comment_count": "1",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "7",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4917948141",
+                "product_url": "https://www.lazada.com.ph/products/-i4917948141.html",
+                "title": "UAG Plasma Airpod Pro 2 Case for  Apple AirPods 2nd Gen (L2024)",
+                "img": "https://sg-test-11.slatic.net/p/24ca54231ab13a3222df22737b6949a5.png",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24927
+                ],
+                "brand": "UAG",
+                "brand_id": "9555",
+                "currency": "PHP",
+                "price": "2390",
+                "price_info": {
+                    "sale_price": "2390",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4917653270",
+                "product_url": "https://www.lazada.com.ph/products/-i4917653270.html",
+                "title": "UAG Plasma Case for Apple AirPods 4th Gen (L2024)",
+                "img": "https://sg-test-11.slatic.net/p/b6eff8baf47c3c6e1956a8ef003abaed.png",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24927
+                ],
+                "brand": "UAG",
+                "brand_id": "9555",
+                "currency": "PHP",
+                "price": "2390",
+                "price_info": {
+                    "sale_price": "2390",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4913118933",
+                "product_url": "https://www.lazada.com.ph/products/-i4913118933.html",
+                "title": "UAG Metropolis Case for Apple Airpods Pro 2nd Gen Late 2022",
+                "img": "https://sg-test-11.slatic.net/p/7ea576ed9480fd69fd9720f29db09b7a.png",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "UAG",
+                "brand_id": "9555",
+                "currency": "PHP",
+                "price": "1690",
+                "price_info": {
+                    "sale_price": "1690",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "1"
+                },
+                "comment_count": "1",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4404506902",
+                "product_url": "https://www.lazada.com.ph/products/-i4404506902.html",
+                "title": "Kate Spade Protective Case for Apple Airpods Pro 2nd Gen (Late 2022-2023)",
+                "img": "https://ph-live-01.slatic.net/p/6fa82ac1b41db5dbd19414b1e071387a.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "Kate Spade New York",
+                "brand_id": "15",
+                "currency": "PHP",
+                "price": "1990",
+                "price_info": {
+                    "sale_price": "1990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.945945945945946",
+                    "review_count": "37"
+                },
+                "comment_count": "37",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "86",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4912529229",
+                "product_url": "https://www.lazada.com.ph/products/-i4912529229.html",
+                "title": "UAG Hard Case V2 for AirPods (1st & 2nd Gen)",
+                "img": "https://sg-test-11.slatic.net/p/85bcae6c27ba41e27cdea478924030ca.png",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "UAG",
+                "brand_id": "9555",
+                "currency": "PHP",
+                "price": "1690",
+                "price_info": {
+                    "sale_price": "1690",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3139209862",
+                "product_url": "https://www.lazada.com.ph/products/-i3139209862.html",
+                "title": "Speck Presidio Case with Soft-Touch Coating for AirPods (1st/2nd Gen) - Black",
+                "img": "https://ph-live-01.slatic.net/p/748a35bcd7988882e5e8aca58864aba6.png",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "Speck",
+                "brand_id": "3461",
+                "currency": "PHP",
+                "price": "872",
+                "price_info": {
+                    "sale_price": "872",
+                    "origin_price": "1090"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.909774436090226",
+                    "review_count": "133"
+                },
+                "comment_count": "133",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "293",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4913648428",
+                "product_url": "https://www.lazada.com.ph/products/-i4913648428.html",
+                "title": "UAG Silicone Case for AirPods (3rd Gen, 2021)",
+                "img": "https://sg-test-11.slatic.net/p/51e45a371f0308a7ee146b16dc7768f1.png",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "UAG",
+                "brand_id": "9555",
+                "currency": "PHP",
+                "price": "1490",
+                "price_info": {
+                    "sale_price": "1490",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4809903704",
+                "product_url": "https://www.lazada.com.ph/products/-i4809903704.html",
+                "title": "UGREEN 2-in-1 Robot Wireless Charger for IPhone + AirPods (W709/45775)",
+                "img": "https://ph-live-01.slatic.net/p/fc1df2d59a3f4b08afabe535a5f97ea4.png",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24930
+                ],
+                "brand": "UGREEN",
+                "brand_id": "46169",
+                "currency": "PHP",
+                "price": "2495",
+                "price_info": {
+                    "sale_price": "2495",
+                    "origin_price": "3495"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "WhiteHaus",
+                    "shop_url": "https://www.lazada.com.ph/shop/whitehaus/",
+                    "seller_id": "500166480069",
+                    "seller_name": "WhiteHaus"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Taguig"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3461250695",
+                "product_url": "https://www.lazada.com.ph/products/-i3461250695.html",
+                "title": "Keybudz Artisan Leather Case for AirPods Pro Late 2022",
+                "img": "https://ph-live-01.slatic.net/p/864bb24bbf3c14390f100f9baa85fcee.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "KeyBudz",
+                "brand_id": "124614021",
+                "currency": "PHP",
+                "price": "1971",
+                "price_info": {
+                    "sale_price": "1971",
+                    "origin_price": "1990"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.9523809523809526",
+                    "review_count": "21"
+                },
+                "comment_count": "21",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "46",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4913801074",
+                "product_url": "https://www.lazada.com.ph/products/-i4913801074.html",
+                "title": "UAG Scout Case for Apple Airpods Pro 2nd Gen Late 2022",
+                "img": "https://sg-test-11.slatic.net/p/5601e815f6d4487efcad40215ef0c56f.png",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "UAG",
+                "brand_id": "9555",
+                "currency": "PHP",
+                "price": "1490",
+                "price_info": {
+                    "sale_price": "1490",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3461311553",
+                "product_url": "https://www.lazada.com.ph/products/-i3461311553.html",
+                "title": "Keybudz Element Series Waterproof Case for AirPods Pro 2 Late 2022",
+                "img": "https://ph-live-01.slatic.net/p/539e5e180abf16b1f8038c3787c2234d.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "KeyBudz",
+                "brand_id": "124614021",
+                "currency": "PHP",
+                "price": "1990",
+                "price_info": {
+                    "sale_price": "1990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.862068965517241",
+                    "review_count": "29"
+                },
+                "comment_count": "29",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "58",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "2524128113",
+                "product_url": "https://www.lazada.com.ph/products/-i2524128113.html",
+                "title": "Speck Presidio Clear Case for AirPods (3rd Gen, Late 2021)",
+                "img": "https://ph-live-01.slatic.net/p/e8736ee76002e20628ca8cd1b5948e61.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "Speck",
+                "brand_id": "3461",
+                "currency": "PHP",
+                "price": "981",
+                "price_info": {
+                    "sale_price": "981",
+                    "origin_price": "1090"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.902654867256637",
+                    "review_count": "113"
+                },
+                "comment_count": "113",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "384",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4377967091",
+                "product_url": "https://www.lazada.com.ph/products/-i4377967091.html",
+                "title": "AMAZINGthing Smoothie Case for Airpods Pro 2",
+                "img": "https://ph-live-01.slatic.net/p/968014576affbe68bf5bd906879ab0f6.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "AMAZINGTHING",
+                "brand_id": "60457",
+                "currency": "PHP",
+                "price": "1195",
+                "price_info": {
+                    "sale_price": "1195",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "2"
+                },
+                "comment_count": "2",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "The Loop by Power Mac Center",
+                    "shop_url": "https://www.lazada.com.ph/shop/the-loop-by-power-mac-center/",
+                    "seller_id": "500163747066",
+                    "seller_name": "The Loop by Power Mac Center"
+                },
+                "sold_count": "8",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4638249940",
+                "product_url": "https://www.lazada.com.ph/products/-i4638249940.html",
+                "title": "Native Union Roam Case for AirPods Pro 2nd Gen Late 2023",
+                "img": "https://sg-test-11.slatic.net/p/559875ea1ad859956d108ac9c71757fa.png",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24927
+                ],
+                "brand": "Omthing",
+                "brand_id": "123542669",
+                "currency": "PHP",
+                "price": "1490",
+                "price_info": {
+                    "sale_price": "1490",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "2524080789",
+                "product_url": "https://www.lazada.com.ph/products/-i2524080789.html",
+                "title": "Speck Presidio with Soft Touch Case for AirPods (3rd Gen, Late 2021)",
+                "img": "https://ph-live-01.slatic.net/p/ce1aaae0b244dfc46e3d618682e66053.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "Speck",
+                "brand_id": "3461",
+                "currency": "PHP",
+                "price": "981",
+                "price_info": {
+                    "sale_price": "981",
+                    "origin_price": "1090"
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.972972972972973",
+                    "review_count": "74"
+                },
+                "comment_count": "74",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "244",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4404492930",
+                "product_url": "https://www.lazada.com.ph/products/-i4404492930.html",
+                "title": "Kate Spade Protective Case for Apple Airpods 2nd Gen (Early 2019)",
+                "img": "https://sg-test-11.slatic.net/p/efae855beb8234199bf7a260a1164305.png",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "Kate Spade New York",
+                "brand_id": "15",
+                "currency": "PHP",
+                "price": "1990",
+                "price_info": {
+                    "sale_price": "1990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "11"
+                },
+                "comment_count": "11",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "23",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4376889451",
+                "product_url": "https://www.lazada.com.ph/products/-i4376889451.html",
+                "title": "elago Liquid Hybrid Basic Case for AirPods 3rd gen",
+                "img": "https://ph-live-01.slatic.net/p/112cc00d2d640b6bb8ad9261c71f86a4.jpg",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "Elago",
+                "brand_id": "28796",
+                "currency": "PHP",
+                "price": "990",
+                "price_info": {
+                    "sale_price": "990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "The Loop by Power Mac Center",
+                    "shop_url": "https://www.lazada.com.ph/shop/the-loop-by-power-mac-center/",
+                    "seller_id": "500163747066",
+                    "seller_name": "The Loop by Power Mac Center"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "4404509840",
+                "product_url": "https://www.lazada.com.ph/products/-i4404509840.html",
+                "title": "Kate Spade Protective Case for Apple Airpods 3rd Gen (Late 2021-2022)",
+                "img": "https://sg-test-11.slatic.net/p/4c747020d373b1601977c8c3c5e26859.png",
+                "category_path": [
+                    10100387,
+                    10100388,
+                    42020602
+                ],
+                "brand": "Kate Spade New York",
+                "brand_id": "15",
+                "currency": "PHP",
+                "price": "1990",
+                "price_info": {
+                    "sale_price": "1990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "9"
+                },
+                "comment_count": "9",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "16",
+                "delivery_info": {
+                    "area_from": "Laguna"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "1832915240",
+                "product_url": "https://www.lazada.com.ph/products/-i1832915240.html",
+                "title": "Incase Airpods Metallic Color Case",
+                "img": "https://ph-live-01.slatic.net/p/6b2bb307d5a750b6155baadadabc6d39.jpg",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24927
+                ],
+                "brand": "Incase",
+                "brand_id": "159198",
+                "currency": "PHP",
+                "price": "1290",
+                "price_info": {
+                    "sale_price": "1290",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Switch Philippines",
+                    "shop_url": "https://www.lazada.com.ph/shop/switch-philippines/",
+                    "seller_id": "1000274593",
+                    "seller_name": "Switch Philippines"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Makati"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "2879325098",
+                "product_url": "https://www.lazada.com.ph/products/-i2879325098.html",
+                "title": "Incase  Reform Sport AirPods Case for AirPods",
+                "img": "https://sg-live-01.slatic.net/p/088ba0865eacd5bdd0d07059c5f716ce.jpg",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24927
+                ],
+                "brand": "Incase",
+                "brand_id": "159198",
+                "currency": "PHP",
+                "price": "1890",
+                "price_info": {
+                    "sale_price": "1890",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "",
+                    "review_count": "0"
+                },
+                "comment_count": "0",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Switch Philippines",
+                    "shop_url": "https://www.lazada.com.ph/shop/switch-philippines/",
+                    "seller_id": "1000274593",
+                    "seller_name": "Switch Philippines"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Makati"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "2759276524",
+                "product_url": "https://www.lazada.com.ph/products/-i2759276524.html",
+                "title": "Moshi Pebbo Luxe for AirPods 3",
+                "img": "https://ph-live-01.slatic.net/p/1d07663b33bdf75789d684ad803af8a4.jpg",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24927
+                ],
+                "brand": "Moshi",
+                "brand_id": "5441",
+                "currency": "PHP",
+                "price": "2390",
+                "price_info": {
+                    "sale_price": "2390",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "1"
+                },
+                "comment_count": "1",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Switch Philippines",
+                    "shop_url": "https://www.lazada.com.ph/shop/switch-philippines/",
+                    "seller_id": "1000274593",
+                    "seller_name": "Switch Philippines"
+                },
+                "sold_count": null,
+                "delivery_info": {
+                    "area_from": "Metro Manila~Makati"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "3627840237",
+                "product_url": "https://www.lazada.com.ph/products/-i3627840237.html",
+                "title": "Momax Q.Mag Pro 3 3-in-1 MagSafe Wireless Charging Stand - White",
+                "img": "https://ph-live-01.slatic.net/p/96d3e46c735ee21c21c067fdfa9fc806.png",
+                "category_path": [
+                    42062201,
+                    20794,
+                    24930
+                ],
+                "brand": "Momax",
+                "brand_id": "9189",
+                "currency": "PHP",
+                "price": "6990",
+                "price_info": {
+                    "sale_price": "6990",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "4.769230769230769",
+                    "review_count": "13"
+                },
+                "comment_count": "13",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Beyond the Box",
+                    "shop_url": "https://www.lazada.com.ph/shop/beyond-the-box/",
+                    "seller_id": "500160963150",
+                    "seller_name": "Beyond the Box"
+                },
+                "sold_count": "37",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Quezon City"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            },
+            {
+                "item_id": "1724738932",
+                "product_url": "https://www.lazada.com.ph/products/-i1724738932.html",
+                "title": "Belkin Anti Microbial Tempered Glass Tray iPhone 12 series",
+                "img": "https://ph-live-01.slatic.net/p/070de4f7a20a0762126c0e2ad12c230f.jpg",
+                "category_path": [
+                    42062201,
+                    20794,
+                    20798
+                ],
+                "brand": "Belkin",
+                "brand_id": "1651",
+                "currency": "PHP",
+                "price": "1090",
+                "price_info": {
+                    "sale_price": "1090",
+                    "origin_price": ""
+                },
+                "discount": null,
+                "review_info": {
+                    "average_score": "5.0",
+                    "review_count": "3"
+                },
+                "comment_count": "3",
+                "shop_info": {
+                    "shop_id": null,
+                    "shop_name": "Switch Philippines",
+                    "shop_url": "https://www.lazada.com.ph/shop/switch-philippines/",
+                    "seller_id": "1000274593",
+                    "seller_name": "Switch Philippines"
+                },
+                "sold_count": "16",
+                "delivery_info": {
+                    "area_from": "Metro Manila~Makati"
+                },
+                "is_in_stock": true,
+                "is_ad": false
+            }
+        ]
+    }
+}
